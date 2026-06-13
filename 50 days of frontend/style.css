@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  background-color: white;
+  margin: 0;
+  padding: 40px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.projects {
+  max-width: 800px;
+  margin: auto;
+}

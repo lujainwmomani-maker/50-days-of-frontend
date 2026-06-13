@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+  background-color: #f4f4f4;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+}
+
+.container {
+  background: rgb(232, 225, 225);
+  padding: 30px;
+  border-radius: 15px;
+  /* text-align: center; */
+  width: 350px;
+}
+
+img {
+  width: 120px;
+  border-radius: 50%;
+}
+
+a {
+  text-decoration: none;
+  margin: 10px;
+}
